@@ -1,0 +1,61 @@
+.container{
+    margin-bottom: 100px;
+}
+.products-bg-1{
+    background-image: url("images/hot-gadgets/bg-1.png");
+    background-repeat: no-repeat;  
+  
+}
+.products-bg-2{
+    background-image: url("images/hot-gadgets/bg-2.png");
+    background-repeat: no-repeat;
+
+}
+.black-button{
+    background-color: black;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 8px 32px;
+    color: white;
+    height: 60px;
+    width: 200px;
+}
+.card-footer{
+    background: none;
+    border: none;
+}
+.card-footer h3{
+    text-align: center;
+}
+.card{
+    box-shadow: 5px 5px 25px  lightgray;
+    border: none;
+    border-radius: 20px;
+}
+.see-all-button{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+ }
+ .cat-text{
+    text-align: center;
+ }
+ .cat-1{
+    box-shadow: 5px 5px 10px grey;  
+    margin-bottom: 20px;
+ }
+ .cat-2{
+    box-shadow: 5px 5px 10px grey;
+    height: 300px;
+    width: 250px;
+    margin-right:30px ;
+ }
+ .Categories h3{
+       
+       text-decoration-color: orange;
+       text-decoration-thickness: 5px;
+       text-underline-position: 10px;
+       text-decoration-line: underline;
+       text-align: center;
+       margin-bottom: 50px;
+ }
